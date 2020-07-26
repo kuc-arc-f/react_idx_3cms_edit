@@ -6,7 +6,7 @@
 
  date    : 2020/07/25 
 
- update  :
+ update  : 2020/07/26
 
 ***
 ### Summary
@@ -57,6 +57,7 @@ https://react-idx-kuc.netlify.app/#/cms_edit
 ***
 ### Blog :
 
+https://note.com/knaka0209/n/n616773aaf262
 
 ***
 
